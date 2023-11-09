@@ -7,7 +7,7 @@ const apiRoutes = require('./routes/api-routes'); // Import API routes
 
 const app = express(); // Create an Express application instance
 
-const PORT = process.env.PORT || 3000; // Set the port number, use environment variable or default to 3000
+const PORT = process.env.PORT || 3001; // Set the port number, use environment variable or default to 3001
 
 // Middlewares for handling different types of data and requests
 
